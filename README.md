@@ -1,4 +1,4 @@
-![image](https://github.com/YukiMitsuta/Fstiffness/assets/59159956/9cbb04f7-f859-4245-b3e6-ab53a85bbf54)# Fstiffness
+# Fstiffness
 
 These programs are sub-programs for the "nudged elastic band method" to change the "nudged elastic stiffness band method."
 
